@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9e302144-d2b7-454d-8b40-6d0d050dfe34" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/.keep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/props/default.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/ConnectionClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/DatabaseMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/UserProfile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/bootstrap/liftweb/Boot.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/org/example/comet/.keep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/org/example/lib/DepencyFactory.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/org/example/model/User.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/org/example/snippet/HelloWorld.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/org/example/view/.keep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/ajax-loader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/templates-hidden/default.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/templates-hidden/wizard-all.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/packageLinkDefs.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/.keep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/scala/LiftConsole.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/scala/RunWebApp.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/scala/org/example/AppTest.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/scala/org/example/snippet/HelloWorldTest.scala" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2JxwKzcG7UQ0AsjBbsnJGnqJOkR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.UserProfile">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="jdbc_class_practise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserProfile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UserProfile" />
+      <module name="jdbc_class_practise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.UserProfile" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e302144-d2b7-454d-8b40-6d0d050dfe34" name="Changes" comment="" />
+      <created>1673032983155</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673032983155</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/Main.java</url>
+          <line>72</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
